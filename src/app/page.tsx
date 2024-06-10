@@ -1,8 +1,12 @@
+import Home from "./home/page"
+import About from "./about/page";
 
-export default function Home() {
+const App = () => {
   return (
-    <main >
-      hello, world!
+    <main className="pgae">
+     <Home></Home>
     </main>
-  );
+  )
 }
+
+export default App;
