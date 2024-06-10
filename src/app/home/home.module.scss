@@ -13,6 +13,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+
+
+}
+
+.history {
+  background: #000;
 }
 
 .input {
