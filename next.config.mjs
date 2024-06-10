@@ -4,7 +4,7 @@ const nextConfig = {
   /* 打包配置 */
   output: 'export',
   distDir: 'docs',
-  assetPrefix: '/home/',
+  assetPrefix: '/',
 };
 
 export default nextConfig;
